@@ -8,6 +8,10 @@ body {
 
 }
 
+#logo {
+    width: 92px;
+}
+
 #container {
     width: 70%;
     padding: 1em;
@@ -18,4 +22,9 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+footer {
+    background: gray;
+    color: white;
 }
