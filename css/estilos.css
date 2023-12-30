@@ -18,6 +18,7 @@ body {
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
+    background-color: #37488b;
 }
 
 #container h1 {
@@ -25,6 +26,6 @@ body {
 }
 
 footer {
-    background: gray;
+    background: #37488b;
     color: white;
 }
